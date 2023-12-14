@@ -1,6 +1,8 @@
 # BizCardX-Extracting-Business-Card-Data-with-OCR
 <p align="left"> <a href="https://www.linkedin.com/in/kailagovardhinik/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+## Youtube Video Demonstation of the Application-https://youtu.be/1CLLnZzv3_Y?si=__n_HB9PMViRVIXo
+
 ## Overview
 
 This project aims to develop a Streamlit application that streamlines the extraction of relevant information from business cards uploaded by users. Leveraging the power of easyOCR, the application will intelligently extract details such as company name, cardholder name, designation, contact information, address, and more. The extracted data will be neatly displayed in a graphical user interface (GUI) for user convenience.
