@@ -19,3 +19,8 @@ CRUD Operations: The application supports essential CRUD (Create, Read, Update, 
 - Streamlit: A powerful framework for building interactive web applications with minimal effort.
 - easyOCR: The OCR library used for extracting information from business card images.
 - Database Management System: Choose between SQLite or MySQL for efficient storage and retrieval of extracted data.
+
+
+![Capture](https://github.com/kailagovardhinik/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/141433548/663382ba-a0b4-468d-9e63-bbc2713160ec)
+![Capture 2](https://github.com/kailagovardhinik/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/141433548/74ff6806-6dcf-4b5e-9876-731c2ed3b718)
+![Capture 3](https://github.com/kailagovardhinik/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/141433548/5c8098bd-5ec2-4253-9a25-f0bee1494e96)
